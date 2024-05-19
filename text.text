@@ -1,0 +1,5 @@
+dans le dossier racine
+pour mac
+source venv/bin/activate
+
+pip install django-filter
